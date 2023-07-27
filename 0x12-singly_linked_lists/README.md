@@ -1,0 +1,1 @@
+Linked lists are a type of data structure commonly used in computer science and programming. They consist of a sequence of elements, called nodes, where each node contains two parts: data (or value) and a reference (or pointer) to the next node in the sequence. The last node in the list typically has a reference pointing to NULL or nothing, indicating the end of the list.
