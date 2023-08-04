@@ -1,0 +1,1 @@
+A static library in C is a collection of precompiled object code files that are combined into a single file. These object code files typically contain functions, data structures, and other code that can be used by a program. Static libraries offer a way to reuse code across multiple programs, making it easier to manage and maintain common functionality.
