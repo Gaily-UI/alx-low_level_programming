@@ -1,0 +1,1 @@
+'malloc' stands for "memory allocation," and it is a function in the C and C++ programming languages (as well as some other languages) that is used to dynamically allocate memory during the runtime of a program.
