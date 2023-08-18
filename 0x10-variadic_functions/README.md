@@ -1,0 +1,1 @@
+A variadic function in C is a function that can accept a variable number of arguments. These functions are defined with a variable argument list, allowing you to pass a different number of arguments of varying types. Variadic functions are commonly used in C to provide a flexible and generic way to handle different cases without explicitly specifying a fixed number of arguments.
