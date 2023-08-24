@@ -1,0 +1,1 @@
+A linked list is a fundamental data structure in computer science used for organizing and managing a collection of elements. It consists of nodes, where each node contains both data and a reference (or pointer) to the next node in the sequence. Linked lists come in various forms, such as singly linked lists, doubly linked lists, and circular linked lists.
