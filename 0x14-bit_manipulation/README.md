@@ -1,0 +1,1 @@
+Bit manipulation in C involves performing operations on individual bits or groups of bits within a data value. This technique is often used to optimize code, work with hardware registers, or implement specific algorithms efficiently. 
