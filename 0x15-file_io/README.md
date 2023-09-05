@@ -1,0 +1,1 @@
+File I/O, which stands for Input/Output, refers to the process of reading from and writing to files on a computer's storage device, such as a hard drive or SSD. It is a fundamental operation in computer programming and is used to store and retrieve data from files.
